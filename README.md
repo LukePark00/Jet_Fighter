@@ -27,7 +27,14 @@ To begin installation, 3D Print the STL Files which will form the controller. At
 ![Image1](https://github.com/user-attachments/assets/c9bfe1b4-10ec-4fca-ad7f-ca7c247f46f6)
 ![Image2](https://github.com/user-attachments/assets/a3e0f0cc-e7bd-4dec-b1a2-eb617450c972)
 
-
 # Fritzing Diagram
 
 <img width="907" alt="FritzingDiagram" src="https://github.com/user-attachments/assets/82016b17-997a-4a13-bb51-a07798cd9c5a">
+
+# Potentiometer
+
+I felt the need to use a potentiometer unecessary because the game requires only directional movement and shooting. I considered using it as a setting for difficulty (speed of the enemy bogeys) but decided against it because I think universal difficulty allows for a high score to hold more value - if someone has a high score of 30 and someone else has a high score of 10 but on a higher difficulty, the two values cannot be directly measured against one another. 
+
+https://github.com/user-attachments/assets/e3fc7d06-f80d-47ff-b59d-25d8ef4d2793
+
+
