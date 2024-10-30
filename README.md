@@ -28,4 +28,4 @@ To begin installation, 3D Print the STL Files which will form the controller. At
 
 # Fritzing Diagram
 
-// Fritzing Diagram
+<img width="907" alt="FritzingDiagram" src="https://github.com/user-attachments/assets/82016b17-997a-4a13-bb51-a07798cd9c5a">
