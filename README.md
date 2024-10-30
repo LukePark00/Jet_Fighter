@@ -19,7 +19,7 @@ Materials:
 - Button
 - Wire
 - Breadboard
-- ESP 32 TTGO Display
+- ESP 32 TTGO T Display
 - Screws
 
 To begin installation, 3D Print the STL Files which will form the controller. Attach or solder the wires onto the Joystick and Button and attach to the Breadboard in the configuration shown under "Fritzing Diagram". Screw the Joystick into the base of the Joystick mount and glue the Button to the block to add the appropriate height and glue the Joystick mount and Button block to the base of the controller. While making sure that the wires flow out of the controller's cut outs, screw the top of the controller to the base to complete this step and wire the Button and Joystick wires to the appropriate spots on the Breadboard. Be sure to upload the JetSurvivalArduino.ino code to the ESP 32 to connect the controller to the game. 
